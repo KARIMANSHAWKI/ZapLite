@@ -1,6 +1,7 @@
 {
     "name": "kariman/zap-lite",
     "version": "1.0.0",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "ZapLite\\": "src/"
