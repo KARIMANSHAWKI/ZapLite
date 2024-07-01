@@ -1,5 +1,6 @@
 {
     "name": "kariman/zap-lite",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "ZapLite\\": "src/"
